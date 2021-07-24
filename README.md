@@ -8,6 +8,9 @@ A template for structuring a Python project.
 
 - After the new repository is created in your GitHub account, rename the root directory `project` with your project title and edit the README.md 
 
+- Put the documentation for your project in the doc directory. The directory structure is created using Sphinx. Refer [Sphinx documentation](https://www.sphinx-doc.org/en/master/) for creating the documentation. 
+
+
 ## License
 
 MIT License
